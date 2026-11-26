@@ -80,7 +80,6 @@ def main():
     root.add(File("File2", "pdf", 20))
     root.add(File("File3", "png", 30))
 
-
     root.show_tree()
     print(root.find_longest_path())
 
