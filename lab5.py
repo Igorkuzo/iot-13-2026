@@ -72,7 +72,6 @@ class Folder:
 
         return longest_path
 
-
 def main():
     root = Folder("Root")
 
