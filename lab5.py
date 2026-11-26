@@ -28,7 +28,6 @@ class File:
     def show(self):
         print(self.name + "." + self.extension, self.size)
 
-
 class Folder:
     def __init__(self, name):
         self.name = name
